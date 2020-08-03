@@ -1,1 +1,7 @@
-// Code your solution in this file!
+function distanceFromHqInBlocks(street){
+    return 42  - street
+}
+
+function distanceFromHqInFeet(){
+
+}
